@@ -4,13 +4,13 @@
 #
 #    pip-compile
 #
-asgiref==3.7.2
+asgiref==3.9.2
     # via django
-conditional==1.5
+conditional==2.0
     # via django-clone (setup.py)
-django==5.0.2
+django==5.2.7
     # via django-clone (setup.py)
-six==1.16.0
+six==1.17.0
     # via django-clone (setup.py)
-sqlparse==0.4.4
+sqlparse==0.5.3
     # via django
